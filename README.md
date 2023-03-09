@@ -5,5 +5,10 @@ https://www.npmjs.com/package/react-supporter
 npm install react-supporter
 </pre>
 
-시용 예  
+Supported APIs:
+<pre>
+
+</pre>
+
+Exanples:    
 https://github.com/automatethem/react-supporter/blob/main/examples/app/app/App.js
