@@ -7,7 +7,7 @@ npm install react-supporter
 
 Supported APIs:
 <pre>
-import { JumoButton } from 'react-helper';
+import JumoButton from 'react-helper';
 </pre>
 
 Exanples:    
