@@ -1,5 +1,6 @@
 # react-supporter
 
+https://www.npmjs.com/package/react-supporter
 <pre>
 npm install react-supporter
 </pre>
