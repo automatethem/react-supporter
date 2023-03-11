@@ -5,8 +5,8 @@ import JumoButton from './JumoButton/JumoButton';
 export { JumoButton };
 */
 ///*
-#https://github.com/omgovich/react-colorful/blob/master/src/index.ts
-#https://github.com/chakra-ui/chakra-ui/blob/main/packages/components/layout/src/index.ts
+//https://github.com/omgovich/react-colorful/blob/master/src/index.ts
+//https://github.com/chakra-ui/chakra-ui/blob/main/packages/components/layout/src/index.ts
 export { JumoButton } from './JumoButton/JumoButton';
 //*/
 /*
