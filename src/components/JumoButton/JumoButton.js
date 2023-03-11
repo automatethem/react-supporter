@@ -1,12 +1,12 @@
 import React from 'react';
 
-const JumoButton = ({ children, backgroundColor, fontColor, onClick }) => {
+const JumoButton = ({ label, backgroundColor, fontColor, onClick }) => {
   return (
     <button
       style={{ backgroundColor: `${backgroundColor}`, color: `${fontColor}` }}
       onClick={onClick}
     >
-      {children}
+      {label}
     </button>
   );
 };
