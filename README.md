@@ -10,5 +10,7 @@ Supported APIs:
 import JumoButton from 'react-helper';
 </pre>
 
-Exanples:    
-https://github.com/automatethem/react-supporter/blob/main/examples/app/app/App.js
+Exanples:   
+
+jumo_button  
+https://github.com/automatethem/react-supporter/blob/main/examples/jumo_button/app/app/App.js
