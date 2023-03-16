@@ -12,5 +12,5 @@ import JumoButton from 'react-helper';
 
 Exanples:   
 
-jumo_button  
+JumoButton  
 https://github.com/automatethem/react-supporter/blob/main/examples/jumo_button/app/app/App.js
